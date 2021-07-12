@@ -1,4 +1,4 @@
-## Letisia's Github ⚡️
+## ⚡️ Letisia's Github ⚡️
 
 ### Current Project (in development)
 
