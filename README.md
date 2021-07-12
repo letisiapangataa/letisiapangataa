@@ -1,6 +1,8 @@
-## ⚡️ Letisia's Github ⚡️
+## Letisia's Github ⚡️
 
 ### Current Project (in development)
+
+### Open Source Projects (contributed)
 
 ### Current Languages (working on)
 
