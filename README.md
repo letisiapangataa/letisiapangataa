@@ -1,5 +1,23 @@
-### Hi there 👋
+## Letisia's Github ⚡️
 
+### Current Project (in development)
+
+
+### Current Languages (working on)
+
+- Next.js
+- React.js
+- JavaScript
+
+### Experienced Languages (past work)
+
+- XAML
+- HTML5 Phaser Framework
+- JavaScript
+
+### Get in touch
+
+<a href="https://www.linkedin.com/in/letisiapangataa/">LinkedIn</a>
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
