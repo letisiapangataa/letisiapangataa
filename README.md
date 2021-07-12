@@ -2,7 +2,6 @@
 
 ### Current Project (in development)
 
-
 ### Current Languages (working on)
 
 - Next.js
@@ -17,7 +16,9 @@
 
 ### Get in touch
 
-<a href="https://www.linkedin.com/in/letisiapangataa/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
+- <a href="https://letisiapangataa.github.io/portfolio/" target="_blank">Portfolio</a>
+- <a href="https://letisiapangataa.github.io" target="_blank">Blog</a>
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
