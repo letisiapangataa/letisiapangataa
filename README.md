@@ -9,6 +9,7 @@
 - Next.js
 - React.js
 - JavaScript
+- Java
 
 ### Experienced Languages (past work)
 
