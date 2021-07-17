@@ -6,12 +6,17 @@
 
 ### Current Languages (working on)
 
-- Golang
+#### Front-End 
+
 - Next.js
 - React.js
 - React Native
 - JavaScript
+
+#### Back-End
+
 - Java
+- Golang
 
 ### Experienced Languages (past work)
 
