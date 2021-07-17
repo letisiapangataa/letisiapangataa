@@ -6,6 +6,7 @@
 
 ### Current Languages (working on)
 
+- Golang
 - Next.js
 - React.js
 - React Native
