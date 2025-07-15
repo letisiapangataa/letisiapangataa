@@ -8,7 +8,6 @@
 - AZ-204 : Azure Developer Associate ​
 - AZ-400 : DevOps Engineer Expert ​
 - AZ-104 : Azure Administrator Associate Certifications
-  
 - GitHub Foundations​
 - GitHub Copilot​
 - GitHub Advanced Security
