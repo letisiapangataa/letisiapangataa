@@ -12,31 +12,28 @@
 - GitHub Copilot​
 - GitHub Advanced Security
 
-#### Front-End 
+#### Front-End Languages (Prior Experience)
 
+- HTML5 Phaser Framework
+- JavaScript
 - Next.js
 - React.js
 - React Native
 - JavaScript
 
-#### Back-End
+#### Back-End Languages (Prior Experience)
 
 - Java
 - Golang
-
-### Experienced Languages (past work)
-
 - XAML
-- HTML5 Phaser Framework
-- JavaScript
 
-### 📫 Get in touch
+### 📫 Get In Touch
 
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
 - <a href="https://letisiapangataa.github.io/portfolio/" target="_blank">Portfolio</a>
 - <a href="https://letisiapangataa.github.io" target="_blank">Blog</a>
 
-## ⚡ Fun fact: ...
+## ⚡ Fun Fact
 I develop and code random applications and publish them to the market. 💬
 
 <!--
