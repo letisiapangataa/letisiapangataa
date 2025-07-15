@@ -5,6 +5,11 @@
 - AZ-500 : Microsoft Azure Security Technologies
 - SC-300 : Microsoft Certified Identity and Access Administrator Associate
 - AI-102 : Microsoft Azure AI Engineer Associate
+- AZ-204 : Azure Developer Associate ​
+- AZ-400 : DevOps Engineer Expert ​
+- GitHub Foundations​
+- GitHub Copilot​
+- GitHub Advanced Security
 
 #### Front-End 
 
