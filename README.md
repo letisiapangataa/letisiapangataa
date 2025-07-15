@@ -1,6 +1,6 @@
 ## Letisia's Github
 
-### 🔭 I’m currently working on ...
+#### 🔭 I’m currently working on ...
 
 - AZ-500 : Microsoft Azure Security Technologies
 - SC-300 : Microsoft Certified Identity and Access Administrator Associate
@@ -28,13 +28,13 @@
 - Golang
 - XAML
 
-### 📫 Get In Touch
+#### 📫 Get In Touch
 
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
 - <a href="https://letisiapangataa.github.io/portfolio/" target="_blank">Portfolio</a>
 - <a href="https://letisiapangataa.github.io" target="_blank">Blog</a>
 
-### ⚡ Fun Fact
+#### ⚡ Fun Fact
 I develop and code random applications and publish them to the market. 💬
 I use pop culture, favourite films and music to inspire my work and fuel my expression. ✨ 
 
