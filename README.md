@@ -36,7 +36,7 @@
 #### ⚡ Fun Fact
 - I develop and code random applications and publish them to the market. 
 - I use pop culture, favourite films and music to inspire my work and fuel my expression.
-- I enjoy expressing my creativity by solving business use cases creatively.
+- I enjoy expressing my creativity by solving business use cases with technology.
 
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
