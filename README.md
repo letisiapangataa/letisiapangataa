@@ -34,7 +34,7 @@
 - <a href="https://letisiapangataa.github.io" target="_blank">Blog</a>
 
 #### ⚡ Fun Fact
-- I develop and code random applications and publish them to the market. 
+- I develop and code random applications and publish them to the app store.
 - I use pop culture, favourite films and music to inspire my work and fuel my expression.
 - I enjoy expressing my creativity by solving business use cases with technology.
 
