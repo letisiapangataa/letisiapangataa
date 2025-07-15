@@ -4,6 +4,7 @@
 
 - AZ-500 : Microsoft Azure Security Technologies
 - SC-300 : Microsoft Certified Identity and Access Administrator Associate
+- AI-102 : Microsoft Azure AI Engineer Associate
 
 #### Front-End 
 
