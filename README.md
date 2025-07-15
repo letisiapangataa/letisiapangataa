@@ -14,7 +14,7 @@
 
 #### Front-End Languages (Prior Experience)
 
-- HTML5 Phaser Framework
+- HTML5
 - JavaScript
 - Next.js
 - React.js
