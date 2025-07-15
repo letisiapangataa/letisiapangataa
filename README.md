@@ -1,10 +1,9 @@
 ## Letisia's Github
 
-### Current Project (in development)
-
-### Open Source Projects (contributed)
-
-### Current Languages (working on)
+### Current Certification (in development)
+🔭 I’m currently working on ...
+- AZ-500 : Microsoft Azure Security Technologies
+- SC-300 : Microsoft Certified Identity and Access Administrator Associate
 
 #### Front-End 
 
