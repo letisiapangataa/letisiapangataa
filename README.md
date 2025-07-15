@@ -35,7 +35,7 @@
 
 #### ⚡ Fun Fact
 - I develop and code random applications and publish them to the app store.
-- I use pop culture, favourite films and music to inspire my work and fuel my expression.
+- I use pop culture, favourite films and music to inspire my work.
 - I enjoy expressing my creativity by solving business use cases with technology.
 
 <!--
