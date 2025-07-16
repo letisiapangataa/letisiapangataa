@@ -33,11 +33,6 @@
 - <a href="https://letisiapangataa.github.io/portfolio/" target="_blank">Portfolio</a>
 - <a href="https://letisiapangataa.github.io" target="_blank">Blog</a>
 
-#### ⚡ Fun Fact
-- I develop and code random applications and publish them to the app store.
-- I use pop culture, favourite films and music to inspire my work.
-- I enjoy expressing my creativity by solving business use cases with technology.
-
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
