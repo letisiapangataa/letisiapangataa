@@ -5,7 +5,6 @@
 - AZ-500 : Microsoft Azure Security Technologies
 - AI-102 : Microsoft Azure AI Engineer Associate
 - AZ-204 : Azure Developer Associate 
-
 - GitHub Foundations​
 - GitHub Copilot​
 - GitHub Advanced Security
@@ -28,8 +27,6 @@
 #### 📫 Get In Touch
 
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
-- <a href="https://letisiapangataa.github.io/portfolio/" target="_blank">Portfolio</a>
-- <a href="https://letisiapangataa.github.io" target="_blank">Blog</a>
 
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
