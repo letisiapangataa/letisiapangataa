@@ -1,10 +1,9 @@
 ## Letisia's Github
 
 #### 🔭 I’m currently working on ...
-
+- AZ-204 : Azure Developer Associate 
 - AZ-500 : Microsoft Azure Security Technologies
 - AI-102 : Microsoft Azure AI Engineer Associate
-- AZ-204 : Azure Developer Associate 
 - GitHub Foundations​
 - GitHub Copilot​
 - GitHub Advanced Security
