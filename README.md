@@ -1,6 +1,6 @@
 ## Letisia's Github
 
-## Skills & Technologies
+#### 🧪 Skills / Technologies
 
 **Cloud Platforms:**  
 Microsoft Azure (App Services, Functions, Azure SQL, Cosmos DB, Azure Logic Apps, Fabric, Databricks, Synapse)
