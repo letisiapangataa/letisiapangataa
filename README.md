@@ -15,7 +15,7 @@ SC-900, Threat Modeling, Azure Defender, Role-Based Access Control (RBAC)
 GitHub, Azure DevOps, Visual Studio Code, Power Platform, VS Code
 
 **Languages:**  
-Python, PowerShell, SQL,
+Python, PowerShell, SQL.
 
 #### 🔭 I’m currently working on ...
 - AZ-204 : Azure Developer Associate 
