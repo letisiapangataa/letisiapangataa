@@ -4,9 +4,6 @@
 - AZ-204 : Azure Developer Associate 
 - AZ-500 : Microsoft Azure Security Technologies
 - AI-102 : Microsoft Azure AI Engineer Associate
-- GitHub Foundations​
-- GitHub Copilot​
-- GitHub Advanced Security
 
 #### Front-End Languages (Prior Experience)
 
