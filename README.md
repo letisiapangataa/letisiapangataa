@@ -41,6 +41,8 @@
 #### 📫 Get In Touch
 
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
+- <a href="mailto:lpangataa@outlook.com" target="_blank">Email</a>
+
 
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
