@@ -2,19 +2,19 @@
 
 #### 🧪 Skills / Technologies
 
-**Cloud Platforms:**  
+**Cloud Platforms**  
 Microsoft Azure (App Services, Functions, Azure SQL, Cosmos DB, Azure Logic Apps, Fabric, Databricks, Synapse)
 
-**Data & AI:**  
+**Data & AI**  
 Power BI, Azure Machine Learning, Python (pandas, scikit-learn), SQL, DAX, Azure AI Studio
 
-**Security & Identity:**  
+**Security & Identity**  
 SC-900, Threat Modeling, Azure Defender, Role-Based Access Control (RBAC)
 
-**DevOps & Tools:**  
+**DevOps & Tools**  
 GitHub, Azure DevOps, Visual Studio Code, Power Platform, VS Code
 
-**Languages:**  
+**Languages**  
 Python, PowerShell, SQL.
 
 #### 🔭 I’m currently working on ...
