@@ -1,4 +1,4 @@
-## Letisia's Github
+## 👩🏽‍🔬 Letisia's Github - The Magical Hub 🧙🏽‍♀️
 
 #### 🧪 Skills and Technologies (Focus Point / Actively Upskilling)
 
@@ -23,7 +23,7 @@
 - AZ-500 : Microsoft Azure Security Technologies
 - AI-102 : Microsoft Azure AI Engineer Associate
 
-#### Front-End Languages (Prior Experience)
+#### ⚗️ Front-End Languages (Prior Experience)
 
 - HTML5
 - JavaScript
@@ -32,7 +32,7 @@
 - React Native
 - JavaScript
 
-#### Back-End Languages (Prior Experience)
+#### 🔬 Back-End Languages (Prior Experience)
 
 - Java
 - Golang
