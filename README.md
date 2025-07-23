@@ -1,4 +1,4 @@
-## 👩🏽‍🔬 Letisia's Github - The Magical Hub 🧙🏽‍♀️
+## 👩🏽‍🔬 Letisia's GitHub - Magical Hub 🧙🏽‍♀️
 
 #### 🧪 Skills and Technologies (Focus Point / Actively Upskilling)
 
