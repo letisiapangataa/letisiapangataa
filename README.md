@@ -1,6 +1,6 @@
 ## Letisia's Github
 
-#### 🧪 Skills / Technologies
+#### 🧪 Skills and Technologies (Actively Upskilling)
 
 **Cloud Platforms :**  
 - Microsoft Azure
