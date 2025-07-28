@@ -1,4 +1,4 @@
-## 👩🏽‍🔬 Letisia's GitHub
+## Letisia's GitHub
 
 #### 🧪 Skills and Technologies (Focus Point / Actively Upskilling)
 
