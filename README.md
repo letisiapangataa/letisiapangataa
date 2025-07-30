@@ -1,6 +1,6 @@
 ## Letisia's GitHub
 
-#### 🧪 Skills and Technologies (Focus Point / Actively Upskilling)
+#### 🧪 Skills and Technologies
 
 **Cloud Platforms :**  
 - Microsoft Azure
