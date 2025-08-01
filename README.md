@@ -1,6 +1,6 @@
 ## Letisia's GitHub 👩🏽‍🔬
 
-If I'm not here, I'm coding the next project. I genuinely love technology.
+If I'm not here, I'm coding the next project. 
 
 #### 🔭 I’m currently working on ...
 - AZ-204 : Azure Developer Associate 
