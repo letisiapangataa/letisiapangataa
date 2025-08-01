@@ -1,5 +1,7 @@
 ## Letisia's GitHub
 
+If I'm not here, I'm coding the next project. I genuinely love technology.
+
 #### 🔭 I’m currently working on ...
 - AZ-204 : Azure Developer Associate 
 - AZ-500 : Microsoft Azure Security Technologies
@@ -8,6 +10,7 @@
 #### 📫 Get In Touch
 
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
+- <a href="https://letisiapangataa.github.io/" target="_blank">Technical Blog</a>
 - <a href="mailto:lpangataa@outlook.com" target="_blank">Email</a>
 
 
