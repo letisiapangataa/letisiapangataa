@@ -2,13 +2,6 @@
 
 If I'm not here, I'm coding the next project. 
 
-#### 🔭 I’m currently working on ...
-- AZ-204 : Azure Developer Associate 
-- AZ-500 : Microsoft Azure Security Technologies
-- AI-102 : Microsoft Azure AI Engineer Associate
-
-#### 📫 Get In Touch
-
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
 - <a href="https://letisiapangataa.github.io/" target="_blank">Technical Blog</a>
 - <a href="mailto:lpangataa@outlook.com" target="_blank">Email</a>
