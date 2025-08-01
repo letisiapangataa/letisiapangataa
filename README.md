@@ -1,42 +1,9 @@
 ## Letisia's GitHub
 
-#### ⚡Skills and Technologies
-
-**Cloud Platforms :**  
-- Microsoft Azure
-  - (App Services, Functions, Azure SQL, Cosmos DB, Azure Logic Apps, Fabric, Databricks, Synapse)
-
-**Data & AI :**  
-- Power BI, Azure Machine Learning, Python (pandas, scikit-learn), SQL, DAX, Azure AI Studio
-
-**Security & Identity :**  
-- SC-900, Threat Modeling, Azure Defender, Role-Based Access Control (RBAC)
-
-**DevOps & Tools :**  
-- GitHub, Azure DevOps, Visual Studio Code, Power Platform, VS Code
-
-**Languages :**  
-- Python, PowerShell, SQL.
-
 #### 🔭 I’m currently working on ...
 - AZ-204 : Azure Developer Associate 
 - AZ-500 : Microsoft Azure Security Technologies
 - AI-102 : Microsoft Azure AI Engineer Associate
-
-#### ⚗️ Front-End Languages (Prior Experience)
-
-- HTML5
-- JavaScript
-- Next.js
-- React.js
-- React Native
-- JavaScript
-
-#### 🔬 Back-End Languages (Prior Experience)
-
-- Java
-- Golang
-- XAML
 
 #### 📫 Get In Touch
 
