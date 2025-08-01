@@ -1,4 +1,4 @@
-## Letisia's GitHub
+## Letisia's GitHub 👩🏽‍🔬
 
 If I'm not here, I'm coding the next project. I genuinely love technology.
 
