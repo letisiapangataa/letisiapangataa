@@ -1,5 +1,3 @@
-## Letisia's GitHub
-
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
 - <a href="https://letisiapangataa.github.io/" target="_blank">Technical Blog</a>
 - <a href="mailto:lpangataa@outlook.com" target="_blank">Email</a>
