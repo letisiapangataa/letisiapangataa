@@ -1,6 +1,6 @@
 ## Letisia's GitHub
 
-#### Skills and Technologies
+#### ⚡Skills and Technologies
 
 **Cloud Platforms :**  
 - Microsoft Azure
