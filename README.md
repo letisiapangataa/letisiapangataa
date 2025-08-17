@@ -1,6 +1,6 @@
-Kia ora, Malo e lelei, Hello. 🌿
+Kia ora, Malo e lelei, Hello.
 
-Feel free to navigate using the following links below.
+Please feel free to navigate using the following links below.
 
 -  <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
 -  <a href="https://letisiapangataa.github.io/" target="_blank">Technical Blog</a>
