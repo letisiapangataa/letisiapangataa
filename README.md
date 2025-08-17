@@ -8,7 +8,7 @@ Feel free to navigate using the following links below.
 
 Ka kite ano, see you later.
 
-😊
+Letisia.
 
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
