@@ -6,7 +6,7 @@ Please feel free to explore the links below.
 -  <a href="https://letisiapangataa.github.io/" target="_blank">Technical Blog</a>
 -  <a href="mailto:lpangataa@outlook.com" target="_blank">Email</a>
 
-Ka kite ano, see you later.
+Ngā mihi nui, many thanks,
 
 Letisia.
 
