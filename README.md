@@ -1,7 +1,14 @@
+Kia ora, Malo lelei, Hello. 
+
+Please refer to the following links below.
+
 - <a href="https://www.linkedin.com/in/letisiapangataa/" target="_blank">LinkedIn</a>
 - <a href="https://letisiapangataa.github.io/" target="_blank">Technical Blog</a>
 - <a href="mailto:lpangataa@outlook.com" target="_blank">Email</a>
 
+Ka kite ano and see you later.
+
+:)
 
 <!--
 **letisiapangataa/letisiapangataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
